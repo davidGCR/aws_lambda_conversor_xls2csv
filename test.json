@@ -1,0 +1,5 @@
+{
+    "bucket_name": "auna-dlaqa-raw-s3",
+    "input_file": "structured-data/OLAP/dwh-gestionsalud/pry-gs-marketforceintermedio/xls_sar_prd/SAR-UG-19012023.xls",
+    "output_file": "structured-data/OLAP/dwh-gestionsalud/pry-gs-marketforceintermedio/xls_sar_prd/test4lambda.xls"
+}
