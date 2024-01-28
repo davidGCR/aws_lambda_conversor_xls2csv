@@ -1,4 +1,4 @@
-# AWS Lambda para conversion XLSX a CAV
+# AWS Lambda para conversion XLSX a CSV
 
 Lambda function para convertir un XLSX en S3 a CSV usando:
 [![awslambda](https://img.shields.io/badge/aws_lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white&labelColor=101010)]()
